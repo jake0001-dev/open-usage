@@ -1,0 +1,12 @@
+{
+    "ip_auth": false,
+    "ip_whitelist": [],
+
+    "apikey_auth": false,
+    "apikey": "",
+
+    "port": 8080,
+    "endpoint": "/usage"
+
+
+}
