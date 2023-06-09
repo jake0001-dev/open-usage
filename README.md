@@ -7,14 +7,17 @@ The application is fully customisable and secure.
 <table>
 <thead>
 <tr>
-<th>foo</th>
-<th>bar</th>
+<th>Authorisation</th>
+<th>Type</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>baz</td>
-<td>bim</td>
+<td>IP Auth</td>
+<td>IPV4</td>
 </tr>
+<tr>
+<td>Key Auth</td>
+<td>String</td>
 </tbody>
 </table>
