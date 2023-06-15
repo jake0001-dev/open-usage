@@ -2,8 +2,8 @@
     "ip_auth": false,
     "ip_whitelist": [],
 
-    "apikey_auth": false,
-    "apikey": "",
+    "apikey_auth": true,
+    "apikey": "0ff306c0-a5b5-412d-83f0-39b6e2c5c3d3",
 
     "port": 8080,
     "endpoint": "/usage"
